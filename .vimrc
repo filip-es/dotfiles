@@ -10,7 +10,6 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'vim-airline/vim-airline'
-"Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 
 "ALL PLUGINS ABOVE THIS LINE 
