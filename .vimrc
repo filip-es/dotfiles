@@ -10,6 +10,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'vim-airline/vim-airline'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 
 
 "ALL PLUGINS ABOVE THIS LINE 
